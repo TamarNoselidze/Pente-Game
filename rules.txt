@@ -1,0 +1,22 @@
+                                            Pente for two players
+
+The first player (with blue stones) begins the game and thereafter players take turns playing their stones, one at a time, on any empty intersection.
+The stones are played on the intersections of the lines (excluding the edges of the board). Once played, a stone cannot be moved again, 
+except when removed by a capture. The players take turns adding new stones to the board, building up their positions until one player wins, that is,
+until one player has exactly 5 stones in horizontal, vertical or diagonal direction.
+
+Captures: Stones are captured by flanking an adjacent pair of an opponent's stones directly on either side with your own stones. 
+Captures consist of exactly two stones; flanking a single stone or three or more stones does not result in a capture. 
+
+
+                                    Team Pente for four players
+
+One team wins when:
+    - One player gets five (or more) of his or her own stones in a row, just as in basic-two player Pente, or
+    - The team captures 10 (or more) stones from their opponents.
+
+The first player (with blue stones) makes a move and thereafter the players take turns, in a clockwise direction, placing their stones as in basic Pente.
+Each player controls different colored stones and cooperates with his or her partner for a team win.
+
+Captures: Normal captures and mixed captures are allowed. It is legal to capture your partner's stones. However, only those stones 
+taken from your opponents count toward the winning total. You may not capture your own stones.
